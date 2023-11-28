@@ -1,5 +1,10 @@
-# DESN 368 Web Design 1 Starter Template
+# Editorial Design Analog Photography
 
-> **NOTE:** This is a work in progress.
+> This is what I am passionate about!
 
-DIY Template, starter, boilerplate, prototype, etc. for future Web Design projects. 
+This is about Analog Photography
+
+## Citations
+* [Analog Photography](https://en.wikipedia.org/wiki/Analog_photography)
+* [Favicon.io](https://favicon.io/)
+* [Open Props](https://open-props.style/)
