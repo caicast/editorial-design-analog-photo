@@ -1,0 +1,72 @@
+/* Setup Scrolling */
+@import url(anton.css);
+html,
+body {
+  margin: 0;
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+  overflow-scrolling: touch;
+  color: white;
+  font-family:'Anton Regular';
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+/* Panel Defaults */
+.panel {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  position: relative;
+  box-sizing: border-box;
+
+  padding: 3em;
+}
+
+/* Container for Background Images  */
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.one {
+  background-image: url("https://i.pinimg.com/originals/48/8c/aa/488caa72eab75c66d70f670fee4cd7cd.jpg");
+}
+
+.two {
+  background-image: url("https://i.pinimg.com/564x/ad/80/ca/ad80ca4df3ba6687199a17fd7aeb191a.jpg");
+}
+
+.three {
+  background-image: url("https://i.pinimg.com/originals/32/01/24/320124defcbfc365e73e69753463ef3d.jpg");
+}
+
+.four {
+  background-image: url("https://i.pinimg.com/564x/5d/c8/48/5dc848ee57cd0d21962a9c9aaadb571a.jpg");
+}
+
+.five {
+  background-image: url("https://i.pinimg.com/564x/7e/97/8a/7e978a0f96a2ee92a2b8eb73702a600c.jpg");
+}
+
+.six {
+  background-image: url("https://i.pinimg.com/564x/38/24/7a/38247a340a64fd50b62249d0c48074c0.jpg");
+}
+
+.seven {
+  background-image: url("https://i.pinimg.com/564x/65/cb/98/65cb98fd186c3f6c020cfb2fda0211c1.jpg");
+}
