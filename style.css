@@ -1,13 +1,13 @@
 /* Setup Scrolling */
-@import url(clash-display.css);
+@import url(quilon.css);
 html,
 body {
   margin: 0;
   height: 100%;
   -webkit-overflow-scrolling: touch;
   overflow-scrolling: touch;
-  color: lightgoldenrodyellow;
-  font-family: 'ClashDisplay-Medium';
+  color: whitesmoke;
+  font-family: 'Quilon-Bold';
 }
 
 body {
@@ -23,7 +23,6 @@ body {
   justify-content: right;
   align-items: right;
   flex-direction: column;
-
   position: relative;
   box-sizing: border-box;
 
