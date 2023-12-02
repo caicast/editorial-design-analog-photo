@@ -20,8 +20,8 @@ body {
   width: 100%;
   height: 100%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: right;
+  align-items: right;
   flex-direction: column;
 
   position: relative;
