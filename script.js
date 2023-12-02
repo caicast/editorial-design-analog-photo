@@ -24,14 +24,6 @@ gsap.utils.toArray("section").forEach((section, i) => {
         end: "bottom top",
         scrub: true,
         invalidateOnRefresh: true // to make it responsive
-
-        gsap.to(".three p", {
-  
-          scrollTrigger: "three",
-          letterSpacing: 0, 
-          duration: 5
-        
-        });
       }
     }
   );
