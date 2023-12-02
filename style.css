@@ -1,5 +1,5 @@
 /* Setup Scrolling */
-@import url(quilon.css);
+@import url(red-hat-display.css);
 html,
 body {
   margin: 0;
@@ -7,7 +7,7 @@ body {
   -webkit-overflow-scrolling: touch;
   overflow-scrolling: touch;
   color: whitesmoke;
-  font-family: 'Quilon-Bold';
+  font-family: 'RedHatDisplay-ExtraBold';
 }
 
 body {
