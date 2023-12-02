@@ -1,13 +1,13 @@
 /* Setup Scrolling */
-@import url(anton.css);
+@import url(clash-display.css);
 html,
 body {
   margin: 0;
   height: 100%;
   -webkit-overflow-scrolling: touch;
   overflow-scrolling: touch;
-  color: white;
-  font-family: 'Anton-Regular';
+  color: lightgoldenrodyellow;
+  font-family: 'ClashDisplay-Medium';
 }
 
 body {
@@ -44,29 +44,29 @@ body {
 }
 
 .one {
-  background-image: url("https://i.pinimg.com/originals/48/8c/aa/488caa72eab75c66d70f670fee4cd7cd.jpg");
+  background-image: url("https://images.unsplash.com/photo-1622297118224-2a816821a174?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
 
 .two {
-  background-image: url("https://i.pinimg.com/564x/ad/80/ca/ad80ca4df3ba6687199a17fd7aeb191a.jpg");
+  background-image: url("https://images.unsplash.com/photo-1542291483-324c40fe398a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
 
 .three {
-  background-image: url("https://i.pinimg.com/originals/09/2d/62/092d62fb34a908f072ed48dad32f3fcc.jpg");
+  background-image: url("https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
 
 .four {
-  background-image: url("https://i.pinimg.com/564x/5d/c8/48/5dc848ee57cd0d21962a9c9aaadb571a.jpg");
+  background-image: url("https://images.unsplash.com/photo-1617618481973-627fd1288a7d?q=80&w=3025&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
 
 .five {
-  background-image: url("https://i.pinimg.com/564x/7e/97/8a/7e978a0f96a2ee92a2b8eb73702a600c.jpg");
+  background-image: url("https://images.unsplash.com/photo-1649110458068-fc092543c056?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
 
 .six {
-  background-image: url("https://i.pinimg.com/564x/38/24/7a/38247a340a64fd50b62249d0c48074c0.jpg");
+  background-image: url("https://images.unsplash.com/photo-1576811340410-7e2b5c5ef305?q=80&w=2900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 }
 
 .seven {
-  background-image: url("https://i.pinimg.com/564x/65/cb/98/65cb98fd186c3f6c020cfb2fda0211c1.jpg");
+  background-image: url("https://images.unsplash.com/photo-1618805230308-9bff08f43ead?q=80&w=2885&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dg");
 }
